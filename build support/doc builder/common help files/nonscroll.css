@@ -1,0 +1,31 @@
+body
+{
+	margin: 0px;
+	overflow: hidden;   // GETS MODIFIED (VIA SCRIPT) IF NONSCROLLING REGION USED
+	padding: 0px;
+}
+
+#styleDivTitle
+{
+	background: #FFFFFF top left fixed;
+	border-bottom-style: solid;
+	border-color: #000000;   /* BLACK */
+	border-width: 5px;
+	height: auto;
+	overflow: hidden;
+	padding-bottom: .25em;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: .25em;
+}
+
+#styleDivScrolling
+{
+	background-color: #FFFFFF;   /* WHITE */
+	padding: 5px;
+	height: auto;   /* "height" VALUE IS ADJUSTED TO FIT THE BODY IN SCRIPT FUNCTIONS */
+	overflow: auto;   /* ALLOWS SCROLL BARS */
+	position: absolute;   /* REQUIRED FOR PRECISE CONTROL OVER THE DIV'S POSITION */
+	/* "top" VALUE IS SCRIPTED */
+	width: auto;   /* "width" VALUE IS ADJUSTED TO FIT THE BODY IN SCRIPT FUNCTIONS */
+}

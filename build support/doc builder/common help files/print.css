@@ -1,0 +1,18 @@
+body
+{
+	overflow: visible;
+	width: 100%;
+}
+
+#styleDivTitle
+{
+	background: #FFFFFF;   /* WHITE; MUST BE SET HERE TO OVERRIDE COLOR SET BY SCRIPT */
+	border-style: none;
+	overflow: visible;
+}
+
+#styleDivScrolling
+{
+	overflow: visible;   /* NECESSARY TO ENSURE THAT ALL CONTENTS OF THE SCROLLING DIV PRINT */
+	width: 100%;
+}
