@@ -1,7 +1,6 @@
 # JKI-EasyXML
 
 ## JKI EasyXML Functions
------------------------
 
 ![JKI EasyXML Palette](https://github.com/JKISoftware/JKI-EasyXML/raw/master/images/JKI_EasyXML_Palette.png)
 
