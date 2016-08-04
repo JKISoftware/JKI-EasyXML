@@ -1,23 +1,9 @@
 # JKI-EasyXML
 
-<!-- content group: width = grid_width - (sidebar_first_width + sidebar_last_width) -->
-<a href="" id="main-content-area"></a>
-<!-- page content begin -->
-
-[JKI EasyXML Functions]
--   [Easy Generate XML]
--   [Easy Parse XML]
--   [Easy Write XML File]
--   [Easy Read XML File]
-
-[Examples]
-
-[Detailed Documentation]
-
 ## JKI EasyXML Functions
 -----------------------
 
-![JKI EasyXML Palette]
+![JKI EasyXML Palette](https://github.com/JKISoftware/JKI-EasyXML/raw/master/images/JKI_EasyXML_Palette.png)
 
 The JKI EasyXML functions allow you to easily create and parse XML data and files. The main advantage is that EasyXML does not use the LabVIEW data schema defined by NI (&lt;LabVIEW&gt;\\vi.lib\\Utility\\LVXMLSchema.xsd). Instead, it uses the data names as the XML entity names, allowing users to quickly and easily write and read arbitrary XML data. Additionally, EasyXML supports XML entity attributes.
 
@@ -25,30 +11,30 @@ The JKI EasyXML functions allow you to easily create and parse XML data and file
 
 Converts **LabVIEW Data** to an XML string with the LabVIEW data names (labels) converted to XML item names and the LabVIEW data values converted to XML item values.
 
-![Easy Generate XML]
+![Easy Generate XML](https://github.com/JKISoftware/JKI-EasyXML/raw/master/images/Easy_Generate_XML.png)
 
 ### Easy Parse XML
 
 Converts an **XML String** to **LabVIEW Data**, based on the **LabVIEW Data (Type)** argument. Use the **Variant to Data** function to convert the output variant **LabVIEW Data** to the desired data type.
 
-![Easy Parse XML]
+![Easy Parse XML](https://github.com/JKISoftware/JKI-EasyXML/raw/master/images/Easy_Parse_XML.png)
 
 ### Easy Write XML File
 Converts **LabVIEW Data** to an XML string and writes it to an XML file with the LabVIEW data names (labels) converted to XML item names and the LabVIEW data values converted to XML item values.
 
-![Easy Write XML File]
+![Easy Write XML File](https://github.com/JKISoftware/JKI-EasyXML/raw/master/images/Easy_Write_XML_File.png)
 
 ### Easy Read XML File
 Reads and parses data from an XML file (specified by the **XML File Path** input), converting it into **LabVIEW Data**, based on the **LabVIEW Data (Type)** argument. Use the **Variant to Data** function to convert the output variant **LabVIEW Data** to the desired data type.
 
-![Easy Read XML File]
+![Easy Read XML File](https://github.com/JKISoftware/JKI-EasyXML/raw/master/images/Easy_Read_XML_File.png)
 
 ## Examples
 Refer to the &lt;LabVIEW&gt;\\examples\\JKI\\EasyXML folder for examples of using the JKI EasyXML Functions.
 
 You can also find the examples using the NI Example Finder, under the JKI\\EasyXML folder:
 
-![NI Example Finder]
+![NI Example Finder](https://github.com/JKISoftware/JKI-EasyXML/raw/master/images/NI_Example_Finder.png)
 
 ## Detailed Documentation
 
