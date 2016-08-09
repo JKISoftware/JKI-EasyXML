@@ -189,6 +189,13 @@ instead of:
 </Company>
 ```
 
+### Reading Raw XML into strings using the "#xml" suffix in string label/name
+A useful feature is the ability to read an entire raw XML element into a string data type in LabVIEW, which can then be separately parsed.  To do this, you need to name (label) the string with an " #xml" suffix. The result is that the raw XML data will be read into/from the string and then can be processed in a separate step. This is especially helpful if elements (having the same name) come in a few different flavors (sub-element types and structure).  See the examples, below:
+
+![RAW XML Example 1](https://cloud.githubusercontent.com/assets/381432/17527603/ddfe468a-5e20-11e6-98b2-ffef0e9b7606.png)
+
+![RAW XML Example 2](https://cloud.githubusercontent.com/assets/381432/17527474/5b3fc07a-5e20-11e6-92f7-7aae5af281fc.png)
+
 ## Contributing
 
 1. Fork it!
