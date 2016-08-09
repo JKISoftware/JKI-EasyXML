@@ -1,5 +1,11 @@
 # JKI-EasyXML
 
+## Download and Installation
+
+You can download and install EasyXML with VI Package Manager.
+
+[Download and Install EasyXML](http://vipm.jki.net/package/jki_lib_easyxml)
+
 ## JKI EasyXML Functions
 
 ![JKI EasyXML Palette](https://github.com/JKISoftware/JKI-EasyXML/raw/master/images/JKI_EasyXML_Palette.png)
