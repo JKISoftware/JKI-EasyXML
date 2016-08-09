@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-08-22 14:07:43" Modified_Date="2015-03-10 18:01:23" Creator="Jim Kring" Comments="" ID="43b01ed811f1dce9d21dbae94e3857ab">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-08-22 14:07:43" Modified_Date="2016-08-09 11:48:49" Creator="Jim Kring" Comments="" ID="fc23341b407cfbc8735294bdfbdc68b2">
   <Library_General_Settings>
     <Package_File_Name>jki_lib_easyxml</Package_File_Name>
-    <Library_Version>3.0.0.168</Library_Version>
+    <Library_Version>3.0.0.171</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -40,7 +40,7 @@
     <Description>
       <One_Line_Description_Summary>Toolkit to easily flatten and unflatten LabVIEW data to and from XML.</One_Line_Description_Summary>
       <Description>The EasyXML Toolkit for LabVIEW from JKI is a simple set of VIs that make generating and parsing XML data in LabVIEW as easy as creating a cluster.</Description>
-      <Copyright>Copyright (c) 2015, JKI. All Rights Reserved.</Copyright>
+      <Copyright>Copyright (c) 2016, JKI. All Rights Reserved.</Copyright>
       <Packager>JKI</Packager>
       <URL>http://jki.net/easyxml</URL>
       <Release_Notes>Open sourced and freely availble under the BSD License
@@ -323,7 +323,7 @@ Several performance improvements</Release_Notes>
         <Path>Easy Write XML File.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>90001FA53CB1707EB67BB3B84641BB71</GUID>
+      <GUID>987CAB394845310D767D0AC8A7DE63DC</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
