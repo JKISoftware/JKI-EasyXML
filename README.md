@@ -1,5 +1,7 @@
 # JKI-EasyXML
 
+*Do you have EasyXML ideas, or challenges you'd like discuss? Join the conversation happening in the [EasyXML Community Discussion Forums](https://forums.jki.net/forum/47-easyxml-toolkit/).*
+
 ## Download and Installation
 
 You can download and install EasyXML with VI Package Manager.
