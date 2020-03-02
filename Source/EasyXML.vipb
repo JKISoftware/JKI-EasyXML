@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2014-08-22 14:07:43" Modified_Date="2020-02-29 10:15:19" Creator="Jim Kring" Comments="" ID="8d7fffb7db2c9a54c7ba12c648f7bdc2">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2014-08-22 14:07:43" Modified_Date="2020-03-02 10:53:18" Creator="Jim Kring" Comments="" ID="31c5704155679438ca37bb1bdff00e64">
   <Library_General_Settings>
     <Package_File_Name>jki_lib_easyxml</Package_File_Name>
-    <Library_Version>4.0.0.173</Library_Version>
+    <Library_Version>4.0.0.174</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -44,7 +44,7 @@
       <Packager>JKI</Packager>
       <URL>http://jki.net/easyxml</URL>
       <Release_Notes>Supports LabVIEW 2013 and greater
-Added UTF-8 encoding support</Release_Notes>
+Full UTF-8 encoding support (and now UTF-8 encodes/decodes xml data by default)</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -327,7 +327,7 @@ Added UTF-8 encoding support</Release_Notes>
         <Path>Easy Write XML File.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CC7A6B5BCBCA5A5DF8457F8E6CBA7A7C</GUID>
+      <GUID>7EB2F2AF6F5BFFC34ECBA5B31AA5E025</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
