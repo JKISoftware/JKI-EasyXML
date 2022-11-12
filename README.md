@@ -1,3 +1,5 @@
+[![Image](https://www.vipm.io/package/jki_lib_easyxml/badge.svg?metric=installs)](https://www.vipm.io/package/jki_lib_easyxml/) [![Image](https://www.vipm.io/package/jki_lib_easyxml/badge.svg?metric=stars)](https://www.vipm.io/package/jki_lib_easyxml/)
+
 # JKI-EasyXML
 
 *Do you have EasyXML ideas, or challenges you'd like discuss? Join the conversation happening in the [EasyXML Community Discussion Forums](https://forums.jki.net/forum/47-easyxml-toolkit/).*
